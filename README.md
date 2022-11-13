@@ -10,11 +10,6 @@ It gets a url or the html content of a web page and a list of sample data which 
 
 It's compatible with python 3.
 
-- Install latest version from git repository using pip:
-```bash
-$ pip install git+https://github.com/alirezamika/autoscraper.git
-```
-
 - Install from PyPI:
 ```bash
 $ pip install autoscraper
@@ -136,7 +131,7 @@ scraper.load('yahoo-finance')
 ## Issues
 Feel free to open an issue if you have any problem using the module.
 
-Credits:
+## Credits:
 
 (As made by https://github.com/alirezamika/autoscraper)
 
